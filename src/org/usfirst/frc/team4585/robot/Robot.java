@@ -59,6 +59,15 @@ public class Robot extends IterativeRobot {
 		_TheChassis.autoInit();
 		_TheArm.autoInit();
 		_TheGhost.Initialize();
+        /*
+            owiejfowjefoijwef
+            wef
+                wef
+                ewf
+                        ewf
+                        fw
+                                ewe
+         */
 	}
 
 	/**
